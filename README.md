@@ -1,3 +1,3 @@
 # FirstProject.demo
-student - Firstproject.demo
+This is my first git repository
 Auther - Adity kumari
