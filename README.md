@@ -1,3 +1,4 @@
 # FirstProject.demo
 This is my first git repository
-Auther - Adity kumari
+Auther - Adity kumari(Shridhi Singh)
+
